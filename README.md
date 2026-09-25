@@ -1,5 +1,5 @@
 # Analisis-de-tendencias-financieras-en-bolsa-
-Creación de modelo que evalúa si el precio de una acción en especificó bajará o subirá
+Creación de modelo que evalúa si el precio de una acción en especifico bajará o subirá
 _________________________________________________________________________________
 # 📈 Quantitative Stock Direction Predictor (Machine Learning & Time Series)
 
